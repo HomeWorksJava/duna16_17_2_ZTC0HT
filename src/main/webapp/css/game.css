@@ -1,0 +1,41 @@
+p{
+    font-family: "Comic Sans MS", Georgia, Serif;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.container{
+    width: 100%;
+}
+
+.center{
+    display: table;
+    margin: 0 auto;
+}
+
+.transparent-field{
+    background: transparent;
+    display:inline-block;
+    width: 100px;
+    height: 100px;
+    font-size: 70px;
+    vertical-align: middle;
+    font-family: "Comic Sans MS", Georgia, Serif ;
+}
+
+button{
+    background: transparent;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    font-size: 30px;
+    vertical-align: middle;
+    font-family: "Comic Sans MS", Georgia, Serif ;
+}
